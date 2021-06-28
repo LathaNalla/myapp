@@ -1,1 +1,2 @@
 this is tthe second demo for git
+give commit comments in double commit
